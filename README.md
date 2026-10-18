@@ -19,7 +19,7 @@ Because this project is engineered as a self-contained client-side application, 
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/devops-linux-mastery-pro.git
+git clone https://github.com/deepudevweb/DevOps-Linux-Mastery-Pro-v1.0
 cd devops-linux-mastery-pro
 
 
